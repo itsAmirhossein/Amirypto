@@ -1,4 +1,4 @@
-package com.jahanshahi.amirypto
+package com.jahanshahi.amirypto.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -10,7 +10,7 @@ import androidx.compose.material.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.jahanshahi.amirypto.ui.theme.AmiryptoTheme
+import com.jahanshahi.amirypto.presentation.ui.theme.AmiryptoTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
